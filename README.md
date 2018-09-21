@@ -38,3 +38,6 @@ o	Number of social media (Facebook / Twitter) followers
 13)What is your budget for this project?
 
 14)What design goals are you expecting from the website?
+
+#Source
+http://blog.web123partners.com.au/blog/the-10-questions-you-must-ask-your-client-before-designing-their-website.aspx
