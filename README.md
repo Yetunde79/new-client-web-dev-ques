@@ -19,14 +19,14 @@ Questions to ask new client about website project:
 
 9. How will you record your results? 
 - (ex. The amount of new enquiries they get.
-  -o	Number of signups for the site’s free trial.
-  -o	Number of signups for a FREE eBook.
-  -o	Number of users of the site’s forum.
-  -o	Number of sales.
-  -o	Customer’s average order size.
-  -o	Amount of traffic.
-  -o	Level of activity on the site’s blog.
-  -o	Number of social media (Facebook / Twitter) followers
+-o	Number of signups for the site’s free trial.
+-o	Number of signups for a FREE eBook.
+-o	Number of users of the site’s forum.
+-o	Number of sales.
+-o	Customer’s average order size.
+-o	Amount of traffic.
+-o	Level of activity on the site’s blog.
+-o	Number of social media (Facebook / Twitter) followers
 
 
 10. Do you already have online, and offline materials created for their business?
