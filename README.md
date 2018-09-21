@@ -1,5 +1,5 @@
 # new-client-web-dev-ques
-Questions to ask new client about website project
+Questions to ask new client about website project:
 
 1) What does your business do?
 
