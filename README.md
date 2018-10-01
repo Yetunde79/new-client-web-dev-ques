@@ -46,10 +46,15 @@ http://blog.web123partners.com.au/blog/the-10-questions-you-must-ask-your-client
 
 -----------------------------------------------
 What made you decide to start looking for someone who does the work that I do?
+
 What business goals are you hoping my work will achieve?
+
 Where do you see your business headed in the near future?
+
 What kind of results would from my work would make you happy?
+
 What’s your preferred method of contact?
+
 How often would you like to hear from me?
 
 #Source
